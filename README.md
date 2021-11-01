@@ -32,6 +32,7 @@ Analysis results [https://github.com/habouhilal/Election_Analysis/blob/main/anal
 ## Election-Audit Summary
 o	This analysis was completed by Python and the data retrieved from a CSV file because it is one of the most common data formats that is used to collect data. Also, CSV can support very large datasets. With modification of the Path of the files, this code can read and put an output of any other state.
 Example: Python code
+
     #Add a variable to load a file from a path.
     file_to_load = os.path.join("", "Resources", "election_results.csv")
     #replace the file path to any other CSV data file with same structure for any other state 
