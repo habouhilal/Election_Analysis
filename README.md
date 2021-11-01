@@ -7,7 +7,7 @@ This analysis has a target to get an output of a complete report for
     •	Total number of votes each candidate received
     •	Percentage of votes each candidate won
     •	The winner of the election based on popular vote
-The challenge wa that the election commission has requested some additional data to complete the audit:
+The challenge was that the election commission has requested some additional data to complete the audit:
     •	The voter turnout for each county
     •	The percentage of votes from each county out of the total count
     •	The county with the highest turnout
@@ -27,8 +27,13 @@ The candidate that won the election:
     1.	The winner of this election is  Diana DeGette
     2.	The winner received a total of 272,892 Vote Count
     3.	Winning Percentage: 73.8
+Analysis results [https://github.com/habouhilal/Election_Analysis/blob/main/analysis/election_analysis.txt]
 
 ## Election-Audit Summary
 o	This analysis was completed by Python and the data retrieved from a CSV file because it is one of the most common data formats that is used to collect data. Also, CSV can support very large datasets. With modification of the Path of the files, this code can read and put an output of any other state.
-o	This analysis is also a great base for future campaigns. Future candidates can use this analysis to manage and target the counties with the largest percentage votes  
+Example: Python code
+    #Add a variable to load a file from a path.
+    file_to_load = os.path.join("", "Resources", "election_results.csv")
+    #replace the file path to any other CSV data file with same structure for any other state 
 
+o	This analysis is also a great base for future campaigns. Future candidates can use this analysis to manage and target the counties with the largest percentage votes. 
