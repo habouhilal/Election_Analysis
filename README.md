@@ -13,11 +13,11 @@
         •	The county with the highest turnout
 
 ## Election-Audit Results
-    Total Votes cast in this congressional election was 369,711 <br />
-    The breakdown of the number of votes and the percentage of total votes for each county in the precinct. <br />
-        1.	Jefferson received a 10.5% of votes with a total votes of 38855, <br />
-        2.	Denver received 82.8% of the votes with a totals votes of 306055, <br />
-        3.	Arapahoe received 6.7% of votes with a totals votes of 24801 <br />
+    Total Votes cast in this congressional election was 369,711 
+    The breakdown of the number of votes and the percentage of total votes for each county in the precinct. 
+        1.	Jefferson received a 10.5% of votes with a total votes of 38855, 
+        2.	Denver received 82.8% of the votes with a totals votes of 306055, 
+        3.	Arapahoe received 6.7% of votes with a totals votes of 24801 
     The largest County turnout is Denver
     The breakdown of the number of votes and the percentage of the total votes each candidate received.
         1.	Charles Casper Stockham received 23.0% with a total of 85,213 votes.
